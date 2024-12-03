@@ -3,3 +3,11 @@
      { _id: 3, name: "Coffee Shop", description: "Just coffee" },
      { _id: 4, name: "Clothes Clothes Clothes", description: "Discount clothing" },
      { _id: 5, name: "Java Shopping", description: "Indonesian goods" }
+----------------------------------------------------------------------------------------
+    {product: "toothbrush", total: 4.75, customer: "Mike"},
+          {product: "guitar", total: 199.99, customer: "Tom"},
+          {product: "milk", total: 11.33, customer: "Mike"},
+          {product: "pizza", total: 8.50, customer: "Karen"},
+          {product: "toothbrush", total: 4.75, customer: "Karen"},
+          {product: "pizza", total: 4.75, customer: "Dave"}
+          {product: "toothbrush", total: 4.75, customer: "Mike"},
